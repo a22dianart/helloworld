@@ -1,1 +1,1 @@
-# My first HelloWorld on GitHub
+# My first helloWorld on GitHub
